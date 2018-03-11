@@ -4,6 +4,6 @@ mod 'puppetlabs/stdlib'
 
 
 mod 'linuxfw',
-:git => 'https://github.com/manindra9/test-r10k3'
+:https => 'https://github.com/manindra9/test-r10k3'
 
 
